@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -Wl,-z,noexecstack -shared -Wl,-soname,liboqs.so.9 -o ../lib/liboqs.so.0.15.0-rc1 @CMakeFiles/oqs.dir/objects1.rsp @CMakeFiles/oqs.dir/objects2.rsp  /usr/lib/x86_64-linux-gnu/libcrypto.so 
